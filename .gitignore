@@ -3,3 +3,7 @@
 ################################################################################
 
 /src/test-1/obj
+/src/test-1/bin/Debug/net452
+/src/test-1/bin/Debug/net452
+/.vs
+/src/test-1/test-1.csproj.user
